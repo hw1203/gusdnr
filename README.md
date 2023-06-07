@@ -12,6 +12,7 @@ LED : 온도가 올라가면 점등하여 경고를 알린다
 부저 : 온도가 올라가면 알림음을 출력하여 경고를 알린다
 ## 완성 작품
 ### 작품 회로도
+fritzing을 사용하여 제작
 ![캡처](https://github.com/hw1203/gusdnr/assets/131341003/bfc685b7-3dbf-4280-a9e1-d2d654d90303)
 ### 작품 사진
 ![KakaoTalk_20230608_000720968](https://github.com/hw1203/gusdnr/assets/131341003/1f9f9c04-5848-4088-94f7-b2c6c0d4e865)
